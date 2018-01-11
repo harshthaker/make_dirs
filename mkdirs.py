@@ -1,3 +1,5 @@
+import os
+
 list_array = [1,2,3,4]
 
 def create_dirs(path):
